@@ -1,11 +1,11 @@
-Technologies:
+##Technologies:
 
-    MERN Stack:
+    #MERN Stack:
         - React.js - Frontend
         - Express - Backend web framework
         - MongoDb - Database
         - Node.js - JavaScript web server
-    NPM Modules:
+    #NPM Modules:
         Frontend:
             - axios - making API and backend requests
             - bootstrap - CSS styling
@@ -30,7 +30,7 @@ Technologies:
             - passport - authentication middleware for Node. js
             - passport-http-bearer - HTTP Bearer authentication strategy for Passport
 
-As a user:
+##As a user:
 - You can Sign-up
 - You can Login
 - You can Search without login, but Favoriting is hidden
@@ -43,7 +43,7 @@ As a user:
 - You can Sign-out
 
 
-Stretch:
+##Stretch:
 - View where Title is available for streaming
 - View where Title is available for Purchase
 - You can have a Profile where you set your Region
@@ -52,4 +52,4 @@ Stretch:
 - IBM Watson Voice-to-Text for searching Title 
 
 
-Routes Table:
+##Routes Table:
